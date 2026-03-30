@@ -22,8 +22,8 @@ Built profiles on platforms like LinkedIn, GitHub, and Kaggle to establish a pro
 ### Task 3: Coding & Collaboration Platforms
 Explored platforms like HackerRank and GitHub to practice coding and understand collaboration tools.
 Google form link:
-[
-](https://docs.google.com/forms/d/e/1FAIpQLSew6FcgstKjb3cvcvAcQjnCAZQpeTaf0CbQicQFRGZGFseC7Q/viewform?usp=header)
+
+(https://docs.google.com/forms/d/e/1FAIpQLSew6FcgstKjb3cvcvAcQjnCAZQpeTaf0CbQicQFRGZGFseC7Q/viewform?usp=header)
 
 ###  Task 4: Email & Etiquette Guide
 Drafted professional emails and created a checklist for responsible social media usage.
